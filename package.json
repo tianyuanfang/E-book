@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/tianyuanfang/E-book/issues"
   },
-  "homepage": "https://github.com/tianyuanfang/E-book#readme"
+  "homepage": "https://github.com/tianyuanfang/E-book#readme",
   "devDependencies": {
      "gitbook-cli": "^2.3.2"
    }
